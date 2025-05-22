@@ -25,6 +25,11 @@ For this project we needed to use our knowledge on Test Driven Development and D
 
 For this assignment we had to research different definitions/advantages/reason based on data analytics as a group. Each of us in the group were assigned different questions we had to complete. My task was completing the questions based on different data analytics used such as descriptive, predictive and prescriptive analysis and how AI can benifit data analyst as well as how data visualisation can improve decision making. As a group we decided on who would take on which question and from there we all had to do our own research to answer the questions. Once everything was done we all read over our work to make sure everything was right. We got a very good mark for this task and I learnt the different types of analysis.
 
+### Career Counselling
+![image](https://github.com/user-attachments/assets/f1aaf196-86c4-4b32-ae50-4cfed1579699)
+
+This quiz was based on how I can improve my career skills and how my skills and interests match my career choice. I had to answer questions based on career development and what the end goal is for choosing a career. I read the information that was provided in the assessment and answered the questions that followed. I learnt about the reasons for seeting a goal in career counselling and how to plan for your career choice.
+
 ### Skills and Interests
 ![Skills](https://github.com/user-attachments/assets/95fc0325-cd84-4281-9e4a-a0668230c996)
 
